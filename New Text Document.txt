@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testerX
 branch line
+=======
+testerXXXX
+>>>>>>> Branch01
